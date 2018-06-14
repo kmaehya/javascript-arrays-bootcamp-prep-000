@@ -6,7 +6,10 @@ function addElementToBeginningOfArray(a, element) {
 
 function destructivelyAddElementToBeginningOfArray (a, element){
   a.unshift(element);
+<<<<<<< HEAD
   return a;
+=======
+>>>>>>> d5218acc3c0de6dea99d66dee1c8ad244abc34a0
 }
 
 function addElementToEndOfArray(a, element) {
@@ -15,7 +18,10 @@ function addElementToEndOfArray(a, element) {
 
 function destructivelyAddElementToEndOfArray (a, element){
   a.push(element);
+<<<<<<< HEAD
   return a;
+=======
+>>>>>>> d5218acc3c0de6dea99d66dee1c8ad244abc34a0
 }
 
 function accessElementInArray(a, index) {
@@ -24,7 +30,10 @@ function accessElementInArray(a, index) {
 
 function destructivelyRemoveElementFromBeginningOfArray(a) {
   a.shift();
+<<<<<<< HEAD
   return a;
+=======
+>>>>>>> d5218acc3c0de6dea99d66dee1c8ad244abc34a0
 }
 
 function removeElementFromBeginningOfArray(a) {
@@ -33,7 +42,10 @@ function removeElementFromBeginningOfArray(a) {
 
 function destructivelyRemoveElementFromEndOfArray(a) {
   a.pop();
+<<<<<<< HEAD
   return a;
+=======
+>>>>>>> d5218acc3c0de6dea99d66dee1c8ad244abc34a0
 }
 
 function removeElementFromEndOfArray(a) {
